@@ -26,15 +26,6 @@ imagined by its first pioneers: one free from corporate or government
 control. With your help, Handshake will be a key part of this
 movement.
 
-Created by a group of prominent practitioners in the crypto ecosystem,
-Handshake is a blockchain project that seeks to decentralize and
-secure the internet's namespace. The project creators include Joseph
-Poon (architect of Lightning network and Plasma), Christopher Jeffrey
-(CTO at Purse, creator of bcoin), Andrew Lee (CEO at Purse), Andrew
-Lee (Chairman of London Trust Media). The list of investors includes
-leading Silicon Valley venture capitalists, including Andreessen
-Horowitz.
-
 Handshake’s decentralized namespace distributes ownership among the
 community through its own cryptocurrency, HNS, using a direct airdrop
 to 300,000 FOSS community members. Upon launch of the main net, the
