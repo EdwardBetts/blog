@@ -47,16 +47,16 @@ community.
 ## How?
 
 Rather than paying money to faceless corporations for registering
-names, Handshake lets you obtain and relinquish names using tokens. To
+names, Handshake lets you obtain and relinquish names using Handshake coins. To
 help jump start Handshake and ensure that it’s owned by the community,
-we’re giving away these tokens, first to the open source developers of
+we’re giving away these coins, first to the free and open source contributors of
 the world, and then to the world itself in what we call the ‘airdrop
 to humanity.’ Names are used across the globe, so the core naming
 service should be owned and operated by the world.
 
 VCs and other firms are publicly backing the Handshake system and its
 future impact on the internet by backing the value of these
-tokens. With this investment, obtaining publicly available names is
+coins. With this investment, obtaining publicly available names is
 given an inherent cost and value. Thanks to the blockchain powering
 it, concrete name ownership and censorship resilience is guaranteed.
 
@@ -84,8 +84,8 @@ project and shared it with the world.
 Building a new DNS for the world is not something any single
 organization can do on its own. That’s why we’re giving away the
 $10.2m USD we’ve raised from investors to well-known open source
-organizations and developers, including Mozilla, Open Rights Group,
-and the Apache Foundation.
+organizations and developers, including [Mozilla, Open Rights Group,
+and the Apache Software Foundation](https://handshake.org/#pledge).
 
 #### Why do we need decentralized names on the internet?
 
