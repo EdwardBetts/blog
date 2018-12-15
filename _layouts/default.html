@@ -14,8 +14,8 @@ layout: compress
     <link rel='alternate' type='application/rss+xml' href='{{ '/feed.xml' | prepend:site.url }}'>
 
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-    {% if page.exerpt %}
-    <meta name='description' content='{{ page.exerpt | strip | escape }}'/>
+    {% if page.excerpt %}
+    <meta name='description' content='{{ page.excerpt | strip | escape }}'/>
     {% endif %}
     {% if page.keywords %}
     <meta name='keywords' content='{{ page.keywords | join: "," }}'/>
